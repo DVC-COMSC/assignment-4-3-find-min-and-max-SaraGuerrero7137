@@ -30,7 +30,7 @@ int main()
 			min = num3;
 	}
 	//To find max
-	if (num1 > num2)s
+	if (num1 > num2)
 	{
 		if ( num1 >  num3)
 			max = num1;
@@ -43,9 +43,9 @@ int main()
 			max = num3;
 		else // num >= num1
 			max = num2;
-	}ss
+	}
 		
 	cout << "max : " << max << endl;
 	cout << "min: "  << min << endl; 
 		
-} ssss
+} 
